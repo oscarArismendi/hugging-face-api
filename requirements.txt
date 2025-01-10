@@ -1,0 +1,8 @@
+# Streamlit para la interfaz
+streamlit
+
+# Requests para API
+requests
+
+# Manage the enviroments
+python-dotenv
